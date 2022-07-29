@@ -1,0 +1,2 @@
+DatasetName,DB,Folds/Leaveout,Model name,count,mean,std,min,25%,50%,75%,max
+ Cactus ,1200,3F1L,vit_base_patch16_224_miil_in21k ,2.0,39.375,9.369164850721754,32.75,36.0625,39.375,42.6875,46.0

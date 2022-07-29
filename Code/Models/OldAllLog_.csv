@@ -1,0 +1,3 @@
+,Model name,DatasetName,DB,Folds/Leaveout,index,Model F,Train (%),Test (%),Accuracy (%),Loss,Epochs,ES,Training time,Hyperparameters,Path
+0,vit_base_patch16_224_miil_in21k , Cactus ,1200,3F1L,0,M1,67,33,32.75,1.66397,24,7, ~ 0 h 20 min 55.304 s,"{'Opt': 'Adam', 'LR': 0.001, 'batch_size': 16, 'limitTuning': 0, 'B': 12, 'HL': 0}",/content/drive/MyDrive/Datasets/Models/Cactus/B10L1/vit_base_patch16_224_miil_in21k_C6_Cactus_info.txt
+1,vit_base_patch16_224_miil_in21k , Cactus ,1200,3F1L,1,M2,67,33,46.0,1.45716,29,7, ~ 0 h 25 min 8.128 s,"{'Opt': 'Adam', 'LR': 0.001, 'batch_size': 16, 'limitTuning': 0, 'B': 12, 'HL': 0}",/content/drive/MyDrive/Datasets/Models/Cactus/B10L1/vit_base_patch16_224_miil_in21k_C6_Cactus_info.txt
